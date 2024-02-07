@@ -1,16 +1,45 @@
-### Hi there 👋
+### Hi there! 👋🏻
 
-<!--
-**liudewa888/liudewa888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm liudewa, 
 
-Here are some ideas to get you started:
+- A Front-End Developer 👨🏻‍💻
+- The proud owner of two cats 🐈 🐈‍⬛
+- An advocate for Work-Life Balance 🛠⚖️🏠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently exploring:
+
+- [VueJS](https://vuejs.org/)
+- [NestJS](https://nestjs.com/)
+- The Test-Driven Development (TDD) approach
+- Deepening my knowledge about JavaScript
+- and more...
+
+#### My Open Source Projects 🚀
+- [front-end search](https://github.com/liudewa888/liudewa888.github.io): A front-end search.
+- [micro-sleep](https://github.com/liudewa888/micro-sleep): micro-sleep.
+
+#### Coding Life
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=liudewa888&count_private=true&show_icons=true&include_all_commits=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liudewa888&layout=compact&langs_count=100&hide=HTML,Makefile,CSS,SCSS)
+
+#### Recent Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liudewa888&theme=vue)
+
+---
+
+
+<p align="center">生活不是只有赚钱，生活要像海里的鱼。 </p>
+
+<p align="center">Life isn't merely about earning money; it should be as free as a fish in the sea.</p>
+
+
+---
+
+<p align="center">
+  <samp>
+    <a href="mailto:nauxscript.gmail.com"><img src="https://img.shields.io/badge/email-yellow?logo=Gmail&style=flat" alt="yuguangwei2015@163.com" /></a>
+  </samp>
+</p>
