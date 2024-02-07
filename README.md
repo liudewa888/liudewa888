@@ -41,7 +41,7 @@ I’m currently exploring:
 <p align="center">
   <samp>
     ·
-    <a target="_blank" href=https://juejin.cn/user/2708815556129406" title="junjin"><img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg" width="100"/></a>
+    <a target="_blank" href="https://juejin.cn/user/2708815556129406" title="junjin"><img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg" width="100"/></a>
     ·
     <a href="mailto:yuguangwei2015@163.com" title="email"><img src="https://img.shields.io/badge/email-yellow?logo=Gmail&style=flat" alt="yuguangwei2015@163.com" /></a>
     ·
