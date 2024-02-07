@@ -40,6 +40,6 @@ I’m currently exploring:
 
 <p align="center">
   <samp>
-    <a href="mailto:nauxscript.gmail.com"><img src="https://img.shields.io/badge/email-yellow?logo=Gmail&style=flat" alt="yuguangwei2015@163.com" /></a>
+    <a href="mailto:yuguangwei2015@163.com"><img src="https://img.shields.io/badge/email-yellow?logo=Gmail&style=flat" alt="yuguangwei2015@163.com" /></a>
   </samp>
 </p>
