@@ -31,9 +31,9 @@ I’m currently exploring:
 ---
 
 
-<p align="center">生活不是只有赚钱，生活要像海里的鱼。 </p>
+<p align="center">知道的越多，不知道的也就越多。</p>
 
-<p align="center">Life isn't merely about earning money; it should be as free as a fish in the sea.</p>
+<p align="center">The more you know, the more you don't know.</p>
 
 
 ---
