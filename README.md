@@ -9,7 +9,7 @@ I'm liudewa,
 I’m currently exploring:
 
 - [VueJS](https://vuejs.org/)
-- [NestJS](https://nestjs.com/)
+- [NuxtJS](https://nuxt.com/)
 - The Test-Driven Development (TDD) approach
 - Deepening my knowledge about JavaScript
 - and more...
