@@ -16,8 +16,8 @@ I’m currently exploring:
 
 #### My Open Source Projects 🚀
 - [front-end search](https://github.com/liudewa888/liudewa888.github.io): A front-end search.
-- ([integration-platform](https://github.com/liudewa888/integration-platform)): integration-platform.
-- ([ifai-news](https://news.ifai.io/)): ifai-news.
+- [integration-platform](https://github.com/liudewa888/integration-platform): integration-platform.
+- [ifai-news](https://news.ifai.io/): ifai-news.
 
 #### Coding Life
 
